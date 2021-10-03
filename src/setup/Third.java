@@ -18,4 +18,4 @@ public class Third {
             System.out.println(6);
         }
     }
-}
+
