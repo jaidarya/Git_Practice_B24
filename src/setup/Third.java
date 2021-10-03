@@ -14,8 +14,8 @@ public class Third {
         System.out.println("5");
        // m();
 
-        public static void m();{
+        //public static void m();{
             System.out.println(6);
         }
     }
-}
+
